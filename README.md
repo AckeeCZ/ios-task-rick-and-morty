@@ -73,9 +73,9 @@ Display a list of favorite characters. You can open a detail of a character from
 
 Implement as much requirements as possible 
 
-- The app has to be written in SwiftUI
+- The app has to be written in Swift
 - Define UI of the app however you like (we've heard that SwiftUI is some new thing now 😎)
-- Use any asynchronous framework you fancy like Combine or maybe native async/await
+- Use any asynchronous framework you fancy like Combine, ReactiveSwift or native async/await
 - Follow MVVM architecture or [Composable architecture](https://github.com/pointfreeco/swift-composable-architecture)
 - The app should follow system Dark mode settings
 - Application should be able to run on every device and every orientation (however we don't have separate design for tablets)
