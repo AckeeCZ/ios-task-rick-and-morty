@@ -19,8 +19,8 @@ It's up to you.
 ## Design
 
 We have our own unique design for this task which you can find in the
-Abstract [here](https://share.goabstract.com/9f8f1ad7-5b07-41ed-94f2-b915a0948453?collectionLayerId&mode). There is separate design for iOS and
-Android so choose the correct one. There is also support for Dark mode and Design system definition.
+Figma [here](https://www.figma.com/file/0w76BZ8TviO2TQF84574Et/Rick-and-Morty-Test-Task-Design?node-id=0%3A1&t=HXhltN12wt0ZpKY7-1). There is separate design for iOS and
+Android, so choose the correct one. There is also support for Dark mode and Design system definition. You might need to login to your Figma account to be able to inspect UI and export assets.
 
 For easier usage you can use native components for `UINavigationBar` and `UITabBar` instead of those in the design.
 
